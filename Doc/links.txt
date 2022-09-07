@@ -1,14 +1,31 @@
 https://matplotlib.org/examples/axes_grid/demo_parasite_axes2.html
+
 https://community.periscopedata.com/t/187z9z/remove-whitespace-margins-from-plotly-charts
+https://www.pcmag.com/reviews/polar-h10-heart-rate-sensor
+
 https://pypi.org/project/hrv-analysis/
+
 http://www.paulvangent.com/2016/03/15/analyzing-a-discrete-heart-rate-signal-using-python-part-1/
+
 https://github.com/Aura-healthcare/hrvanalysis/blob/master/CONTRIBUTING.md
 
 https://plotly.com/python/time-series/
 
 https://github.com/oroce/polar-h7-rr
+
 http://developer.polar.com/wiki/H6,_H7,_H10_and_OH1_Heart_rate_sensors
+
 https://polarconverter.com/
+
+https://support.polar.com/en/support/compatibility_with_my_Polar?product_id=49758&category=faqs
+
+https://elentra.healthsci.queensu.ca/assets/modules/ECG/normal_ecg.html
+
+https://www.polar.com/accesslink-api/?python#making-requests
+
+https://reprage.com/post/how-to-connect-the-raspberry-pi-to-a-bluetooth-heart-rate-monitor
+
+https://python-heart-rate-analysis-toolkit.readthedocs.io/en/latest/quickstart.html
 
 #################################
 usefull python packeges 
